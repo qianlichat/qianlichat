@@ -1,6 +1,6 @@
 ### Thanks `Signal Official`
 
-Against the Great Firewall of China
+Against the Great Firewall of China (AKA. `GFW`)
 
 Hide or remove phone number when register, to protect users in China.
 
