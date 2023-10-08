@@ -2,7 +2,7 @@
 
 Build to against the Great Firewall of China. `aka. GFW`
 
-Hide or remove phone number when register, to protect users in China.
+Hide or remove phone number to register, to protect users in China.
 
 No need donation. If someone donate us, we will transfer to `Signal Official`
 
